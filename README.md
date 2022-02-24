@@ -7,7 +7,8 @@ I write code mostly for my classes at [ITP/IMA](https://itp.nyu.edu) at New York
 My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on the ITP/IMA site](https://tisch.nyu.edu/about/directory/itp/3558397). 
 
  -----
- ## News
+ 
+## News
 
  _24 Feb 2022_
 
