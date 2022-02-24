@@ -7,7 +7,7 @@ I write code mostly for my classes at [ITP/IMA](https://itp.nyu.edu) at New York
 My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on the ITP/IMA site](https://tisch.nyu.edu/about/directory/itp/3558397). 
 
  -----
- 
+
 ## News
 
  _24 Feb 2022_
@@ -26,6 +26,7 @@ I've been using GitHub Pages as a place to build mini-tutorial sites out of my r
       let url = 'https://github.com/search?q=user%3Atigoe+';
       let term = document.getElementById('searchbox').value;
       url += term;
+      url += "&type=code";
       let mySearchLink = document.getElementById("searcher");
       mySearchLink.href = url;
       mySearchLink.target = "_blank";
