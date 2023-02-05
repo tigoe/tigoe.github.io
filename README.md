@@ -19,6 +19,37 @@ I've been using GitHub Pages as a place to build mini-tutorial sites out of my r
   <input type="text" id="searchbox" onchange="search();">
   <a href="https://google.com"  id="searcher" class="button">search</a>
 
+----
+## Repositories:
+
+Connectivity:<br /> 
+  <a href="{{site.baseurl}}/html-for-conndev">HTML For Connected Devices</a> <br /> 
+  <a href="{{site.baseurl}}/mqtt-examples">MQTT Client examples</a> <br /> 
+  <a href="{{site.baseurl}}/websocket-examples">WebSocket Client examples</a> <br /> 
+  <a href="{{site.baseurl}}/Wifi101_examples">Arduino WiFi examples</a> <br /> 
+  <a href="{{site.baseurl}}/DataloggingExamples">Arduino Datalogging Examples</a> <br /> 
+  <a href="{{site.baseurl}}/PiRecipes">Raspberry Pi Recipes</a> <br /> 
+  <a href="{{site.baseurl}}/NodeExamples">Node.js Server and Client Examples</a> <br /> 
+  <a href="{{site.baseurl}}/BluetoothLE-Examples">Bluetooth LE Examples</a> <br /> 
+  <br /> 
+Arduino:<br /> 
+  <a href="{{site.baseurl}}/ArduinoGeneralExamples">Arduino General Examples</a> <br /> 
+  <a href="{{site.baseurl}}/SoundExamples">Arduino Sound and MIDI Examples</a> <br /> 
+  <a href="{{site.baseurl}}/SensorExamples">Arduino Sensor Examples</a> <br /> 
+  <a href="{{site.baseurl}}/display-examples">Arduino Display Examples</a> <br /> 
+  <br /> 
+Light:<br /> 
+  <a href="{{site.baseurl}}/LightProjects">Light Projects</a> <br /> 
+  <a href="{{site.baseurl}}/hue-control">Philips Hue Control</a> <br /> 
+  <a href="{{site.baseurl}}/DMX-Examples">DMX-512 Examples</a> <br /> 
+  <a href="{{site.baseurl}}/ArduinoLifx">LIFX Light Bulb Control (Arduino library)</a> <br /> 
+  <a href="{{site.baseurl}}/HolidayLights">Holiday Lights</a> <br /> 
+  <a href="{{site.baseurl}}/CandleProject">Candle Project</a> <br /> 
+  <br /> 
+Raspberry Pi:<br /> 
+  <a href="https://itpnyu.github.io/clock-club">Clock Club</a> <br /> 
+
+
   
   <script>
 
