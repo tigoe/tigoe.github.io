@@ -2,11 +2,9 @@ I write code mainly for my classes at [ITP/IMA](https://itp.nyu.edu) at New York
 
 My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on the ITP/IMA site](https://tisch.nyu.edu/about/directory/itp/3558397). 
 
- -----
-
  Search my gitHub account:
   <input type="text" id="searchbox" onchange="search();">
-  <a href="https://google.com"  id="searcher" class="button">search</a>
+  <a href=""  id="searcher" class="button">search</a>
 
 ----
 ## Repositories:
@@ -43,14 +41,12 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
   <script>
 
     function search() {
-      let url = 'https://github.com/search?q=user%3Atigoe+';
+      let url = 'https://github.com/search/advanced?q=user%3Atigoe+';
       let term = document.getElementById('searchbox').value;
       url += term;
-      url += "&type=code";
       let mySearchLink = document.getElementById("searcher");
       mySearchLink.href = url;
       mySearchLink.target = "_blank";
       mySearchLink.click();
-     
     }
   </script>
