@@ -3,4 +3,17 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Tom Igoe's GitHub Repositories
-description: Code for my classes at [ITP/IMA](https://itp.nyu.edu) at New York University, for [Arduino](https://www.arduino.cc), and personal projects. 
+description:  Search my gitHub account:
+  <input type="text" id="searchbox" onchange="search();" target="_blank">
+  <a href="" id="searcher" class="button">search</a>
+    <script>
+    function search() {
+      let url = 'https://github.com/search/advanced?q=user%3Atigoe+';
+      let term = document.getElementById('searchbox').value;
+      url += term;
+      url += '&type=Repositories&ref=advsearch&l=&l=';
+      let mySearchLink = document.getElementById("searcher");
+      mySearchLink.href = url;
+      mySearchLink.click();
+    }
+  </script> 
