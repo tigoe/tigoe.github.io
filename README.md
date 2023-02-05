@@ -33,19 +33,3 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 
 ### Raspberry Pi:<br /> 
 * [Clock Club](https://itpnyu.github.io/clock-club) 
-
-
-  
-  <script>
-
-    function search() {
-      let url = 'https://github.com/search/advanced?q=user%3Atigoe+';
-      let term = document.getElementById('searchbox').value;
-      url += term;
-      url += '&type=Repositories&ref=advsearch&l=&l=';
-      let mySearchLink = document.getElementById("searcher");
-      mySearchLink.href = url;
-      mySearchLink.target = "_blank";
-      mySearchLink.click();
-    }
-  </script>
