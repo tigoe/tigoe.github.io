@@ -1,12 +1,10 @@
 title: tigoe.github.io
 author:
   name: Tom Igoe
-  email: 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
- Hi there. Welcome to my code repositories.
+
 # Build settings
 
 theme: minima
