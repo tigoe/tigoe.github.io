@@ -4,13 +4,6 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 
  -----
 
-## News
-
- _24 Feb 2022_
-
-I've been using GitHub Pages as a place to build mini-tutorial sites out of my repos for a few years now. It was getting out of hand, so I finally set up this page as a place to access the ones I refer people to most frequently. 
-
-----
  Search my gitHub account:
   <input type="text" id="searchbox" onchange="search();">
   <a href="https://google.com"  id="searcher" class="button">search</a>
