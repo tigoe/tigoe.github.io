@@ -38,9 +38,9 @@ I've been using GitHub Pages as a place to build mini-tutorial sites out of my r
 * [Light Projects]({{site.baseurl}}/LightProjects)
 * [Philips Hue Control]({{site.baseurl}}/hue-control)
 * [DMX-512 Examples]({{site.baseurl}}/DMX-Examples)
-* [LIFX Light Bulb Control (Arduino library)](ArduinoLifx)
-* [Holiday Lights](HolidayLights)
-* [Candle Project](CandleProject)
+* [LIFX Light Bulb Control (Arduino library)]({{site.codeurl}}/ArduinoLifx)
+* [Holiday Lights]({{site.codeurl}}/HolidayLights)
+* [Candle Project]({{site.codeurl}}/CandleProject)
 
 ### Raspberry Pi:<br /> 
 * [Clock Club](https://itpnyu.github.io/clock-club) 
