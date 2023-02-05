@@ -46,6 +46,7 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
       let url = 'https://github.com/search/advanced?q=user%3Atigoe+';
       let term = document.getElementById('searchbox').value;
       url += term;
+      url += '&type=Repositories&ref=advsearch&l=&l=';
       let mySearchLink = document.getElementById("searcher");
       mySearchLink.href = url;
       mySearchLink.target = "_blank";
