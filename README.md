@@ -34,18 +34,18 @@ I've been using GitHub Pages as a place to build mini-tutorial sites out of my r
 * [Arduino General Examples]({{site.baseurl}}/ArduinoGeneralExamples)
 * [Arduino Sound and MIDI Examples]({{site.baseurl}}/SoundExamples)
 * [Arduino Sensor Examples]({{site.baseurl}}/SensorExamples)
-* [Arduino Display Examples]({{site.baseurl}}/display-examples] 
+* [Arduino Display Examples]({{site.baseurl}}/display-examples) 
  
 ### Light:<br /> 
-  [Light Projects]({{site.baseurl}}/LightProjects)
+* [Light Projects]({{site.baseurl}}/LightProjects)
 * [Philips Hue Control]({{site.baseurl}}/hue-control)
 * [DMX-512 Examples]({{site.baseurl}}/DMX-Examples)
 * [LIFX Light Bulb Control (Arduino library)]({{site.baseurl}}/ArduinoLifx)
 * [Holiday Lights]({{site.baseurl}}/HolidayLights)
-* [Candle Project]({{site.baseurl}}/CandleProject] 
+* [Candle Project]({{site.baseurl}}/CandleProject)
 
 ### Raspberry Pi:<br /> 
-* [Clock Club](https://itpnyu.github.io/clock-club]  
+* [Clock Club](https://itpnyu.github.io/clock-club) 
 
 
   
