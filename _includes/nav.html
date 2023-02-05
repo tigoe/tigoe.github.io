@@ -1,0 +1,19 @@
+<p class="header">
+  <a href="{{site.baseurl}}">Home</a> <br /> 
+</p>
+
+<p>Search my gitHub account:
+  <input type="text" id="searchbox" onchange="search();" target="_blank">
+  <a href="" id="searcher" class="button">search</a>
+</p>
+    <script>
+    function search() {
+      let url = 'https://github.com/search/advanced?q=user%3Atigoe+';
+      let term = document.getElementById('searchbox').value;
+      url += term;
+      url += '&type=Repositories&ref=advsearch&l=&l=';
+      let mySearchLink = document.getElementById("searcher");
+      mySearchLink.href = url;
+      mySearchLink.click();
+    }
+  </script> 
