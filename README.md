@@ -17,19 +17,24 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 * [Node.js Server and Client Examples]({{site.baseurl}}/NodeExamples)
 * [Bluetooth LE Examples]({{site.baseurl}}/BluetoothLE-Examples)
 
-### Arduino:<br /> 
+### Arduino:
+
 * [Arduino General Examples]({{site.baseurl}}/ArduinoGeneralExamples)
 * [Arduino Sound and MIDI Examples]({{site.baseurl}}/SoundExamples)
 * [Arduino Sensor Examples]({{site.baseurl}}/SensorExamples)
 * [Arduino Display Examples]({{site.baseurl}}/display-examples) 
  
-### Light:<br /> 
+### Light:
+
 * [Light Projects]({{site.baseurl}}/LightProjects)
 * [Philips Hue Control]({{site.baseurl}}/hue-control)
 * [DMX-512 Examples]({{site.baseurl}}/DMX-Examples)
-* [LIFX Light Bulb Control (Arduino library)]({{site.codeurl}}/ArduinoLifx)
+* [LIFX Light Bulb Control (Arduino library)]({{site.baseurl}}/ArduinoLifx)
 * [Holiday Lights]({{site.codeurl}}/HolidayLights)
 * [Candle Project]({{site.codeurl}}/CandleProject)
 
-### Raspberry Pi:<br /> 
+### Raspberry Pi:
+* [Pi Recipes]({{site.baseurl}}/PiRecipes) 
+
+### Other:
 * [Clock Club](https://itpnyu.github.io/clock-club) 
