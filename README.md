@@ -1,5 +1,3 @@
-# tigoe.github.io
-
 I write code mainly for my classes at [ITP/IMA](https://itp.nyu.edu) at New York University, where I teach (it's [on gitHub](https://github.com/itpnyu) too).  I'm also a co-founder of [Arduino](https://www.arduino.cc) (also [on gitHub](https://github.com/arduino)). Mostly I've written example sketches for some of the core functions and libraries. I also have a number of personal repositories of Arduino sketches. There are a few personal projects here too.
 
 My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on the ITP/IMA site](https://tisch.nyu.edu/about/directory/itp/3558397). 
@@ -40,9 +38,9 @@ I've been using GitHub Pages as a place to build mini-tutorial sites out of my r
 * [Light Projects]({{site.baseurl}}/LightProjects)
 * [Philips Hue Control]({{site.baseurl}}/hue-control)
 * [DMX-512 Examples]({{site.baseurl}}/DMX-Examples)
-* [LIFX Light Bulb Control (Arduino library)]({{site.baseurl}}/ArduinoLifx)
-* [Holiday Lights]({{site.baseurl}}/HolidayLights)
-* [Candle Project]({{site.baseurl}}/CandleProject)
+* [LIFX Light Bulb Control (Arduino library)](ArduinoLifx)
+* [Holiday Lights](HolidayLights)
+* [Candle Project](CandleProject)
 
 ### Raspberry Pi:<br /> 
 * [Clock Club](https://itpnyu.github.io/clock-club) 
