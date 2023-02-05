@@ -21,27 +21,27 @@ I've been using GitHub Pages as a place to build mini-tutorial sites out of my r
 ## Repositories:
 
 ### Connectivity:
-*  [HTML For Connected Devices]({{site.baseurl}}/html-for-conndev]
-* [MQTT Client examples]({{site.baseurl}}/mqtt-examples]
-* [WebSocket Client examples]({{site.baseurl}}/websocket-examples]
-* [Arduino WiFi examples]({{site.baseurl}}/Wifi101_examples]
-* [Arduino Datalogging Examples]({{site.baseurl}}/DataloggingExamples]
-* [Raspberry Pi Recipes]({{site.baseurl}}/PiRecipes]
-* [Node.js Server and Client Examples]({{site.baseurl}}/NodeExamples]
-* [Bluetooth LE Examples]({{site.baseurl}}/BluetoothLE-Examples]
+* [HTML For Connected Devices]({{site.baseurl}}/html-for-conndev)
+* [MQTT Client examples]({{site.baseurl}}/mqtt-examples)
+* [WebSocket Client examples]({{site.baseurl}}/websocket-examples)
+* [Arduino WiFi examples]({{site.baseurl}}/Wifi101_examples)
+* [Arduino Datalogging Examples]({{site.baseurl}}/DataloggingExamples)
+* [Raspberry Pi Recipes]({{site.baseurl}}/PiRecipes)
+* [Node.js Server and Client Examples]({{site.baseurl}}/NodeExamples)
+* [Bluetooth LE Examples]({{site.baseurl}}/BluetoothLE-Examples)
 
 ### Arduino:<br /> 
-* [Arduino General Examples]({{site.baseurl}}/ArduinoGeneralExamples]
-* [Arduino Sound and MIDI Examples]({{site.baseurl}}/SoundExamples]
-* [Arduino Sensor Examples]({{site.baseurl}}/SensorExamples]
+* [Arduino General Examples]({{site.baseurl}}/ArduinoGeneralExamples)
+* [Arduino Sound and MIDI Examples]({{site.baseurl}}/SoundExamples)
+* [Arduino Sensor Examples]({{site.baseurl}}/SensorExamples)
 * [Arduino Display Examples]({{site.baseurl}}/display-examples] 
  
 ### Light:<br /> 
-  [Light Projects]({{site.baseurl}}/LightProjects]
-* [Philips Hue Control]({{site.baseurl}}/hue-control]
-* [DMX-512 Examples]({{site.baseurl}}/DMX-Examples]
-* [LIFX Light Bulb Control (Arduino library)]({{site.baseurl}}/ArduinoLifx]
-* [Holiday Lights]({{site.baseurl}}/HolidayLights]
+  [Light Projects]({{site.baseurl}}/LightProjects)
+* [Philips Hue Control]({{site.baseurl}}/hue-control)
+* [DMX-512 Examples]({{site.baseurl}}/DMX-Examples)
+* [LIFX Light Bulb Control (Arduino library)]({{site.baseurl}}/ArduinoLifx)
+* [Holiday Lights]({{site.baseurl}}/HolidayLights)
 * [Candle Project]({{site.baseurl}}/CandleProject] 
 
 ### Raspberry Pi:<br /> 
