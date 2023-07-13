@@ -40,3 +40,4 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 
 ### Other:
 * [Clock Club](https://itpnyu.github.io/clock-club) 
+* [Making Things Talk Code Samples](https://github.com/tigoe/MakingThingsTalk2) 
