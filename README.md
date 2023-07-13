@@ -11,7 +11,7 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 * [HTML For Connected Devices]({{site.baseurl}}/html-for-conndev)
 * [MQTT Client examples]({{site.baseurl}}/mqtt-examples)
 * [WebSocket Client examples]({{site.baseurl}}/websocket-examples)
-* [Arduino WiFi examples]({{site.baseurl}}/Wifi101_examples)
+* [Arduino WiFi examples]({{site.baseurl}}/Wifi_examples)
 * [Arduino Datalogging Examples]({{site.baseurl}}/DataloggingExamples)
 * [Raspberry Pi Recipes]({{site.baseurl}}/PiRecipes)
 * [Node.js Server and Client Examples]({{site.baseurl}}/NodeExamples)
