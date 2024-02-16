@@ -7,7 +7,7 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 ----
 ## Repositories:
 
-### Connectivity:
+### [Connectivity](#connectivity):
 * [HTML For Connected Devices]({{site.baseurl}}/html-for-conndev)
 * [MQTT Client examples]({{site.baseurl}}/mqtt-examples)
 * [WebSocket Client examples]({{site.baseurl}}/websocket-examples)
@@ -19,14 +19,14 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 
 * [Bluetooth LE Examples]({{site.baseurl}}/BluetoothLE-Examples)
 
-### Arduino:
+### [Arduino](#arduino):
 
 * [Arduino General Examples]({{site.baseurl}}/ArduinoGeneralExamples)
 * [Arduino Sound and MIDI Examples]({{site.baseurl}}/SoundExamples)
 * [Arduino Sensor Examples]({{site.baseurl}}/SensorExamples)
 * [Arduino Display Examples]({{site.baseurl}}/display-examples) 
  
-### Light:
+### [Light](#light):
 
 * [Light Projects]({{site.baseurl}}/LightProjects)
 * [Philips Hue Control]({{site.baseurl}}/hue-control)
@@ -35,9 +35,9 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 * [Holiday Lights]({{site.codeurl}}/HolidayLights)
 * [Candle Project]({{site.codeurl}}/CandleProject)
 
-### Raspberry Pi:
+### [Raspberry Pi](#raspberry-pi):
 * [Pi Recipes]({{site.baseurl}}/PiRecipes) 
 
-### Other:
+### [Other](#other):
 * [Clock Club](https://itpnyu.github.io/clock-club) 
 * [Making Things Talk Code Samples](https://github.com/tigoe/MakingThingsTalk2) 
