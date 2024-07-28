@@ -16,7 +16,6 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 * [Raspberry Pi Recipes]({{site.baseurl}}/PiRecipes)
 * [Node.js Server and Client Examples]({{site.baseurl}}/NodeExamples)
 * [BLEDocs]({{site.codeurl}}/BLEDocs)
-
 * [Bluetooth LE Examples]({{site.baseurl}}/BluetoothLE-Examples)
 
 ### [Arduino](#arduino):
