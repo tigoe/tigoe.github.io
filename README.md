@@ -15,6 +15,7 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 * [Arduino Datalogging Examples]({{site.baseurl}}/DataloggingExamples)
 * [Raspberry Pi Recipes]({{site.baseurl}}/PiRecipes)
 * [Node.js Server and Client Examples]({{site.baseurl}}/NodeExamples)
+* [BLEDocs Wiki](https://github.com/tigoe/BLEDocs/wiki)
 * [Bluetooth LE Examples]({{site.baseurl}}/BluetoothLE-Examples)
 * [Ball Drop Game]({{site.baseurl}}/BallDropGame)
 
