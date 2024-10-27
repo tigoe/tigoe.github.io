@@ -15,7 +15,6 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 * [Arduino Datalogging Examples]({{site.baseurl}}/DataloggingExamples)
 * [Raspberry Pi Recipes]({{site.baseurl}}/PiRecipes)
 * [Node.js Server and Client Examples]({{site.baseurl}}/NodeExamples)
-* [BLEDocs]({{site.codeurl}}/BLEDocs)
 * [Bluetooth LE Examples]({{site.baseurl}}/BluetoothLE-Examples)
 * [Ball Drop Game]({{site.baseurl}}/BallDropGame)
 
@@ -32,8 +31,6 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 * [Philips Hue Control]({{site.baseurl}}/hue-control)
 * [DMX-512 Examples]({{site.baseurl}}/DMX-Examples)
 * [LIFX Light Bulb Control (Arduino library)]({{site.baseurl}}/ArduinoLifx)
-* [Holiday Lights]({{site.codeurl}}/HolidayLights)
-* [Candle Project]({{site.codeurl}}/CandleProject)
 
 ### [Raspberry Pi](#raspberry-pi):
 * [Pi Recipes]({{site.baseurl}}/PiRecipes) 
