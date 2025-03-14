@@ -31,7 +31,7 @@ My personal site is at [tigoe.com](https://tigoe.com). My work profile is [on th
 * [Light Projects]({{site.baseurl}}/LightProjects)
 * [Philips Hue Control]({{site.baseurl}}/hue-control)
 * [DMX-512 Examples]({{site.baseurl}}/DMX-Examples)
-* [sACNSource](https://github.com/tigoe/sACNSource) An Arduino library to send DMX over WiFi using streaming ACN (sACN)
+* [sACNSource](https://tigoe.github.io/sACNSource/) An Arduino library to send DMX over WiFi using streaming ACN (sACN)
 * [LIFX Light Bulb Control (Arduino library)]({{site.baseurl}}/ArduinoLifx)
 
 ### [Raspberry Pi](#raspberry-pi):
